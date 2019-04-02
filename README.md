@@ -7,7 +7,7 @@
     <th>Nome</th>
   </tr>
   <tr>
-    <th>08283519450</th>
-    <th>Alvanir Junior</th>
+    <td>08283519450</td>
+    <td>Alvanir Junior</td>
   </tr>
 </table>
